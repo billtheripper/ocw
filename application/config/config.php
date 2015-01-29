@@ -53,7 +53,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = '';
+$config['base_url'] = 'http://headstone/';
 
 /*
 |--------------------------------------------------------------------------
@@ -296,7 +296,7 @@ $config['log_file_permissions'] = 0644;
 | codes to set your own date formatting
 |
 */
-$config['log_date_format'] = 'Y-m-d H:i:s';
+$config['log_date_format'] = 'm-d-Y H:i:s';
 
 /*
 |--------------------------------------------------------------------------
